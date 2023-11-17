@@ -14,6 +14,8 @@ Os usuários podem personalizar seus limites de alerta com base em suas preferê
 
 INSTRUÇÕES
 
-Ao executar a aplicação, a conexão à rede Wi-Fi será feita e posteriormente será checada novamente para confirar que está funcionando e está conectada. Depois, será feita a conexão com o HiveMq. Ao acessar o mqtt, o tópico a ser inscrito é "topic_led/#" e para os dados serem lançados para o mqtt é preciso apertar o botão da aplicação e um led será aceso, mostrando que os batimentos cardíacos estariam em alta.
+Ao executar a aplicação, a conexão à rede Wi-Fi será feita e posteriormente será checada novamente para confirar que está funcionando e está conectada. Depois, será feita a conexão com o HiveMq. Ao acessar o mqtt, o tópico a ser inscrito é "topic/led/#" e para os dados serem lançados para o mqtt é preciso apertar o botão da aplicação e um led será aceso, mostrando que os batimentos cardíacos estariam em alta.
 
 PROJETO NO WOKWI 
+
+https://wokwi.com/projects/381582615998287873
